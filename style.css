@@ -126,7 +126,7 @@ backdrop-filter: blur(4px);
 
 text-decoration: none;
 font-weight: 500;
-transition: background 0.2s;
+transition: 0.2s;
 }
 
 /* pseudo-seletor*/
@@ -148,7 +148,7 @@ border: 1.5px solid var(--text-color);
   justify-content: center;
   padding: 16px;
   
-  transition: background 0.2s;
+  transition: 0.2s;
   border-radius: 50%;
 }
 
