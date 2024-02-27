@@ -27,4 +27,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um site que mostra minhas redes sociais
 
-Feito com  by Guilherme
